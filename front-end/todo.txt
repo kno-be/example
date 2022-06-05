@@ -1,3 +1,5 @@
+Rodar com docker 
 Configurar diretórios
 SASS com React
 EsLint config
+Multi-language
